@@ -1,0 +1,4 @@
+project_dir
+scrapy_plus
+suningdushu
+tencent
